@@ -10,4 +10,5 @@ for i in range(4):
 
 print(answer)
 
-
+for i in range(4):
+    print(''.join(['N' if j == i else 'S']))
