@@ -59,7 +59,7 @@ while True:
 
 
 
-# chatgptに書いてもらった上のぶんの三項演算子
+# chatgptに書いてもらった上の文の三項演算子
 # import random
 
 # alphabet = [
